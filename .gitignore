@@ -1,0 +1,19 @@
+# Directorios y archivos generados automatícamente
+.idea/
+.vscode/
+*.iml
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Archivos de compilación
+*.o
+*.obl
+*.a
+*.out
+
+#Dependecias y directorios de módulos de Go
+vendor/
+go.sum
